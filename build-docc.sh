@@ -10,4 +10,4 @@ xcrun xcodebuild docbuild \
 xcrun docc process-archive transform-for-static-hosting \
     "$PWD/.derivedData/Build/Products/Debug-iphonesimulator/ImageClassificationSupport.doccarchive" \
     --output-path ".docs" \
-    --hosting-base-path ""
+    --hosting-base-path "ImageClassification-Support"
