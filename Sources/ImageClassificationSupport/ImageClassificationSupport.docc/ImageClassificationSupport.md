@@ -1,4 +1,4 @@
-# ``ImageClassification_Support``
+# ``ImageClassificationSupport``
 
 iOS에서 CNN모델을 활용하여 물체를 감지하는 '객체 탐지 어플리케이션' 입니다.
 
@@ -12,3 +12,8 @@ iOS에서 CNN모델을 활용하여 물체를 감지하는 '객체 탐지 어플
         ![사진 탐지 모드](overview-2.png)
     }
 }
+
+## Topics
+
+### ViewController
+- ``LabelPicker``

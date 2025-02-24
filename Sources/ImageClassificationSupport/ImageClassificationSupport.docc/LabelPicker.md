@@ -1,4 +1,4 @@
-# ``ImageClassification_CNN_iOS/LabelPicker``
+# ``ImageClassificationSupport/LabelPicker``
 
 
 @Metadata {
@@ -17,4 +17,3 @@ let labelPicker = LabelPicker()
 | params | type | description | required | encoding |
 |:---:|:---:|:---:|:---:|:---:| 
 -| - | - | - | -
-

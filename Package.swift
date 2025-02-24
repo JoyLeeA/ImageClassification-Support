@@ -3,12 +3,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "ImageClassification-Support",
+    name: "ImageClassificationSupport",
     products: [
         .library(
-            name: "ImageClassification-Support",
+            name: "ImageClassificationSupport",
             targets: [
-                "ImageClassification-Support"
+                "ImageClassificationSupport"
             ]
         )
     ],
@@ -16,7 +16,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "ImageClassification-Support",
+            name: "ImageClassificationSupport",
             dependencies: []
         )
     ]
