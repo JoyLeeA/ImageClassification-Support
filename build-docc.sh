@@ -2,7 +2,7 @@
 
 # docc 빌드
 xcrun xcodebuild docbuild \
-    -scheme OYWebviewSupport \
+    -scheme ImageClassification-Support \
     -destination 'generic/platform=iOS Simulator' \
     -derivedDataPath "$PWD/.derivedData"
 
